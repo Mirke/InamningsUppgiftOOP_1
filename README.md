@@ -3,6 +3,7 @@
 ## ANVÄDNING
 
 *Mikael Eriksson*
+
 *mikael.eriksson@edu.edugrade.se*
 
 * Activering genom att mata in 1 , då räknar den ner från 5 och sedan activerar alarment.
