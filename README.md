@@ -2,6 +2,8 @@
 
 ## ANVÄDNING
 
+*Mikael Eriksson*
+
 * Activering genom att mata in 1 , då räknar den ner från 5 och sedan activerar alarment.
 * Användaren kan mata in 2 för att avbryta ned räkningen.
 * Simulering kommer man åt med att mata 3 då kan man köra brand, inbrott och rörelse.
